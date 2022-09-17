@@ -1,2 +1,2 @@
 # Latihan
-latihan-pertama
+Latihan Pertama
